@@ -1,0 +1,43 @@
+Parameter,Value
+polytropic index,1.5
+n prime,0.0
+converged after,319.0
+relative diff. in hmax,7.534e-12
+relative diff. in h0sq,9.802e-11
+relative diff. in c,1.022e-11
+1.5*s/|w|,0.1117
+T/|W|_star,0.06243
+virial error,-0.39865
+axis ratio,1.116
+omega0^2,0.01767
+mass,1.332
+t,0.02067
+-w,0.6361
+3.0*s,0.2132
+kd/ks,0.347632
+MIRP,478.171
+CIRP,89.3662
+r-,13.9219
+r+,17.8107
+ro,15.808
+r-/r+,0.781659
+r-/ro,0.880689
+r+/ro,1.12669
+rs/ro,0.319803
+rs/r-,0.363128
+rp/rs,0.6
+omega_max,0.01314
+n,1.5
+np,0.0
+q,-2.0
+diskRhomax,0.00180922
+starRhomax,0.00580943
+j_star,262.0
+k_star,158.0
+j_diskIn,718.0
+j_diskOut,918.0
+logrho_disk,-0.506642
+starm,0.5
+T/|W|_disk,0.40606
+Virial_Error_2,0.0
+disk_mode,3.0
